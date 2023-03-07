@@ -1,2 +1,1 @@
-transformers
-datasets
+pytorch_pretrained_bert==0.4.0
