@@ -1,2 +1,3 @@
 pytorch_pretrained_bert==0.4.0
 cortex==0.11
+sphinxcontrib-napoleon==0.7
