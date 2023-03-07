@@ -1,5 +1,5 @@
 #pytorch_pretrained_bert==0.4.0
-transformers==2.1.1
+transformers==2.1.0
 simpletransformers==0.4.5
 cortex==0.11
 sphinxcontrib-napoleon==0.7
